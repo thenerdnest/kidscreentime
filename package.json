@@ -10,5 +10,9 @@
     "minecraft"
   ],
   "author": "Jake Anderson",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^7.0.1",
+    "process-list": "^2.0.0"
+  }
 }
